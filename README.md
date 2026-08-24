@@ -90,5 +90,63 @@ The generated response is converted from text into human-like speech using Text-
 **Step 9: Voice Output**
 
 Finally, the speaker plays the generated audio response to the user.
+
+# CASE STUDY
+**Amazon Alexa**
+
+Amazon Alexa is an example of a voice assistant integrated into smart speakers. It uses speech recognition and natural-language technologies to interpret voice commands and provide services.
+
+A typical interaction can be represented as:
+
+**User**: "Alexa, set a timer for 10 minutes."
+
+**Processing:**
+
+Wake word "Alexa" is detected.
+Speech is converted into text.
+NLP identifies the intent as "Set Timer."
+The duration "10 minutes" is extracted.
+The timer is created.
+The system responds through voice.
+
+**Google Assistant**
+
+Google Assistant is another example of an AI-powered voice assistant. It can answer questions, manage reminders, provide information, control compatible smart-home devices, and perform other voice-based tasks.
+
+**Smart Home Control**
+
+Smart speakers can act as a central voice interface for smart-home devices. Users can control lights, fans, thermostats, televisions, and other compatible devices using voice commands.
+
+**Example:**
+
+"Turn off the living room light."
+
+The system identifies the command and sends the corresponding instruction to the connected smart-home device.
+
+**APPLICATIONS OF AI IN SMART SPEAKERS**
+
+1. **Entertainment** – Playing music, podcasts, and audio content.
+2. **Information Retrieval** – Answering questions and providing news or general information.
+3. **Smart Home Automation** – Controlling lights, appliances, and other connected devices.
+4. **Personal Assistance** – Setting alarms, reminders, timers, and schedules.
+5. **Communication** – Supporting calls, messages, and other communication services.
+6. **Personalization** – Learning user preferences and providing customized recommendations.
+7. **Accessibility** – Helping users interact with digital services without requiring a screen or keyboard.
+
+**ADVANTAGES**
+> Provides hands-free interaction.
+> Saves time and improves convenience.
+> Enables natural voice-based communication.
+> Supports smart-home automation.
+> Can provide personalized services.
+> Helps improve accessibility for users who have difficulty using traditional interfaces.
+
+**LIMITATIONS**
+> Requires accurate speech recognition.
+> Background noise can affect performance.
+> Different accents and languages may create recognition challenges.
+> Internet connectivity may be required for many cloud-based services.
+> Voice recordings and personal information raise privacy and security concerns.
+> Accidental activation or incorrect interpretation of commands can occur.
 # RESULT
 Thus, the application of Artificial Intelligence in smart speakers was studied successfully. The roles of Speech Recognition, Natural Language Processing, Machine Learning, and Voice Assistant technology in understanding user commands, processing information, performing tasks, and generating voice responses were understood. Smart speakers demonstrate how AI can provide convenient, interactive, personalized, and intelligent services in everyday life.
