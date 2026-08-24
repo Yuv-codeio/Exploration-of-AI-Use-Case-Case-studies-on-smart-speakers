@@ -133,7 +133,7 @@ The system identifies the command and sends the corresponding instruction to the
 6. **Personalization** – Learning user preferences and providing customized recommendations.
 7. **Accessibility** – Helping users interact with digital services without requiring a screen or keyboard.
 
-**ADVANTAGES**
+# ADVANTAGES
 > Provides hands-free interaction.
 > Saves time and improves convenience.
 > Enables natural voice-based communication.
@@ -141,7 +141,7 @@ The system identifies the command and sends the corresponding instruction to the
 > Can provide personalized services.
 > Helps improve accessibility for users who have difficulty using traditional interfaces.
 
-**LIMITATIONS**
+# LIMITATIONS
 > Requires accurate speech recognition.
 > Background noise can affect performance.
 > Different accents and languages may create recognition challenges.
