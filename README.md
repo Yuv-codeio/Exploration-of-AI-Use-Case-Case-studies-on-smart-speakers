@@ -6,32 +6,32 @@ Smart speakers are AI-powered devices that can understand human voice commands a
 
 Smart speakers combine several AI technologies to provide intelligent and interactive services. The major technologies involved are:
 
-1. Speech Recognition
+**1. Speech Recognition**
 
 Speech Recognition converts the user's spoken words into text that the system can process. The microphone captures the user's voice, and AI-based speech recognition models identify the words and convert them into digital text.
 
 Example:
 When the user says, "Play some music," the smart speaker converts the spoken command into text.
 
-2. Natural Language Processing (NLP)
+**2. Natural Language Processing (NLP)**
 
 NLP enables the system to understand the meaning and intent behind the user's command. It helps the smart speaker identify what the user wants even when the command is expressed in different ways.
 
 Example:
 "What's the weather today?" and "Will it rain today?" have different words but can represent a similar user intent.
 
-3. Machine Learning
+**3. Machine Learning**
 
 Machine Learning allows smart speakers to improve their performance by learning from data and previous interactions. ML models help improve speech recognition, language understanding, personalization, and recommendation systems.
 
-Example:
+**Example:**
 A smart speaker may learn a user's frequently played songs and provide more relevant music recommendations.
 
-4. Voice Assistant Technology
+**4. Voice Assistant Technology**
 
 Voice Assistant technology acts as the interface between the user and the AI system. It receives voice commands, processes them using AI technologies, performs the requested task, and provides a voice response.
 
-Smart speakers can perform tasks such as:
+**Smart speakers can perform tasks such as:**
 
 Playing music
 Setting alarms and reminders
@@ -44,49 +44,49 @@ Setting timers
 # WORKING PRINCIPLE 
 The working of an AI-powered smart speaker can be represented as:
 
-User Voice → Microphone → Audio Processing → Wake Word Detection → Speech Recognition → NLP/NLU → AI/ML Processing → Action/Response → Text-to-Speech → Speaker
+**User Voice → Microphone → Audio Processing → Wake Word Detection → Speech Recognition → NLP/NLU → AI/ML Processing → Action/Response → Text-to-Speech → Speaker**
 
-Step 1: Voice Input
+**Step 1: Voice Input**
 
 The user gives a command through voice. The microphone inside the smart speaker captures the sound.
 
-Step 2: Audio Processing
+**Step 2: Audio Processing**
 
 The captured audio is processed to reduce background noise and improve the quality of the user's voice. Smart-speaker systems may use techniques such as noise suppression and acoustic echo cancellation.
 
-Step 3: Wake Word Detection
+**Step 3: Wake Word Detection**
 
 The system identifies a predefined activation phrase such as "Alexa" or another wake word. This allows the device to recognize when the user wants to interact with it.
 
-Step 4: Speech-to-Text
+**Step 4: Speech-to-Text**
 
 Speech Recognition converts the user's voice into text. This text is then passed to the language-understanding system.
 
-Step 5: Natural Language Understanding
+**Step 5: Natural Language Understanding**
 
 NLP/NLU analyzes the text to determine the user's intent and important information.
 
-Example:
+**Example:**
 
 Command: "Set an alarm for 6 AM."
 
 Intent: Set Alarm
 Time: 6 AM
-Step 6: AI and Machine Learning Processing
+**Step 6: AI and Machine Learning Processing**
 
 The AI system determines the appropriate response or action. It may access a knowledge source, application, or connected smart-home service to complete the request.
 
-Step 7: Action and Response Generation
+**Step 7: Action and Response Generation**
 
 The system performs the requested action or generates an appropriate response.
 
 For example, if the user asks for the weather, the system retrieves the relevant weather information and prepares a response.
 
-Step 8: Text-to-Speech
+**Step 8: Text-to-Speech**
 
 The generated response is converted from text into human-like speech using Text-to-Speech (TTS) technology.
 
-Step 9: Voice Output
+**Step 9: Voice Output**
 
 Finally, the speaker plays the generated audio response to the user.
 # RESULT
