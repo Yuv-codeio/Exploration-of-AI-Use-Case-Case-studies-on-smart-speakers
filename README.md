@@ -72,6 +72,7 @@ Command: "Set an alarm for 6 AM."
 
 Intent: Set Alarm
 Time: 6 AM
+
 **Step 6: AI and Machine Learning Processing**
 
 The AI system determines the appropriate response or action. It may access a knowledge source, application, or connected smart-home service to complete the request.
