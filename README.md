@@ -134,19 +134,19 @@ The system identifies the command and sends the corresponding instruction to the
 7. **Accessibility** – Helping users interact with digital services without requiring a screen or keyboard.
 
 # ADVANTAGES
->> Provides hands-free interaction.
->> Saves time and improves convenience.
->> Enables natural voice-based communication.
->> Supports smart-home automation.
->> Can provide personalized services.
->> Helps improve accessibility for users who have difficulty using traditional interfaces.
+Provides hands-free interaction.
+Saves time and improves convenience.
+Enables natural voice-based communication.
+Supports smart-home automation.
+Can provide personalized services.
+Helps improve accessibility for users who have difficulty using traditional interfaces.
 
 # LIMITATIONS
->> Requires accurate speech recognition.
->> Background noise can affect performance.
->> Different accents and languages may create recognition challenges.
->> Internet connectivity may be required for many cloud-based services.
->> Voice recordings and personal information raise privacy and security concerns.
->> Accidental activation or incorrect interpretation of commands can occur.
+Requires accurate speech recognition.
+Background noise can affect performance.
+Different accents and languages may create recognition challenges.
+Internet connectivity may be required for many cloud-based services.
+Voice recordings and personal information raise privacy and security concerns.
+Accidental activation or incorrect interpretation of commands can occur.
 # RESULT
 Thus, the application of Artificial Intelligence in smart speakers was studied successfully. The roles of Speech Recognition, Natural Language Processing, Machine Learning, and Voice Assistant technology in understanding user commands, processing information, performing tasks, and generating voice responses were understood. Smart speakers demonstrate how AI can provide convenient, interactive, personalized, and intelligent services in everyday life.
